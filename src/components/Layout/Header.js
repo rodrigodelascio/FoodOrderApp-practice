@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import { Fragment } from "react";
 
 import mealsImage from "../../assets/meals.jpeg";
 import HeaderCartButton from "./HeaderCartButton";
